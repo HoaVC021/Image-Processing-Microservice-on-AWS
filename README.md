@@ -16,9 +16,9 @@ To complete this project, you will need to:
 * Deploying your system
 
 ## Testing
-Link-beanstalk-return-200-ok: http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/3/3b/1863_Meeting_of_Settlers_and_Maoris_at_Hawke%27s_Bay%2C_New_Zealand.jpg
+Link-beanstalk-return-200-ok: http://projectstartercode-dev2222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/3/3b/1863_Meeting_of_Settlers_and_Maoris_at_Hawke%27s_Bay%2C_New_Zealand.jpg
 
-Link-beanstalk-return-400-badrequest:http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
+Link-beanstalk-return-400-badrequest:http://projectstartercode-dev2222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
 
 ## License
 
